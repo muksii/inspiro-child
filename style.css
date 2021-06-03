@@ -29,3 +29,8 @@
 
 /* Remove nav-logo from homepage */
 .home .custom-logo-link {display: none;}
+
+.wp-block-cover__inner-container {
+    margin-top: -50px;
+}
+
