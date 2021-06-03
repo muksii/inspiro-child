@@ -58,3 +58,10 @@
     padding-left:43px!important;
     padding-right: 43px!important; 
 }
+
+/* Forside h2 */
+.forside_h2 {
+    line-height: 1.4;
+    margin-top: 50px
+}
+
