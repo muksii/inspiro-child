@@ -154,6 +154,12 @@ div.summary.entry-summary {
     color: var(--textcolor);
     }
 
+/*Homepage responsiveness*/
+
+@media (min-width: 600px) {
+    .mobile_view {
+        display:none; }
+    }
 
 
 
