@@ -14,3 +14,12 @@
     
 
 }
+
+/* Forside */
+
+.site-content {
+    font-family: "Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", "Helvetica Neue", Helvetica, Arial, sans-serif;}
+
+.entry-content p {
+    line-height: 1.5;
+}
