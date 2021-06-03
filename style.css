@@ -115,3 +115,11 @@
 /* Remove ''tilføj til kurv'' */
 .woocommerce a.button, .woocommerce button.button, .woocommerce input.button {
     display: none;}
+
+.orderby {
+    display:none;}
+
+div.summary.entry-summary {
+        padding: 25px;
+    background-color: var(--button);
+}
