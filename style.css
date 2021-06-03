@@ -123,3 +123,8 @@ div.summary.entry-summary {
         padding: 25px;
     background-color: var(--button);
 }
+
+/* Price */
+.woocommerce-Price-amount {
+    color: var(--pricecolor);
+}
