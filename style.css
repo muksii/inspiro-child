@@ -94,3 +94,7 @@
 .woocommerce-result-count {
     display:none;}
 
+/* Product title */
+.woocommerce-loop-product__title {
+    font-weight:bold;}
+
