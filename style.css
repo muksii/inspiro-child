@@ -34,3 +34,12 @@
     margin-top: -50px;
 }
 
+/* Remove search icon */
+.sb-search {display: none;}
+
+/* Remove shadow from plugin btn */
+.glf-button {
+    text-shadow: none!important;
+    box-shadow: none!important;
+    background-image: none!important;
+}
