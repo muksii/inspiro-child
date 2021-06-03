@@ -69,3 +69,16 @@
 .widget_text  {
     text-align: center;
 }
+
+.site-info {
+    display: none;
+}
+
+/* Webshop */
+
+.site-content {
+    background-color: var(--backgroundcolor);}
+
+.entry-title {color: var(--textcolor);
+    font-weight: 300;}
+
