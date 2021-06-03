@@ -149,6 +149,10 @@ div.summary.entry-summary {
 .woocommerce-breadcrumb {
     color: var(--textcolor);
     }
+
+.page-numbers {
+    color: var(--textcolor);
+    }
     
     
 
