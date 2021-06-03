@@ -124,12 +124,3 @@ div.summary.entry-summary {
     background-color: var(--button);
 }
 
-/* Price */
-.woocommerce-Price-amount {
-    color: var(--pricecolor);
-}
-
-.woocommerce div.product p.price { 
-    color:var(--pricecolor);
-    font-weight: 550;
-}
