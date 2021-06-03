@@ -89,3 +89,8 @@
 .woocommerce ul.products.columns-3 li.product, .woocommerce-page ul.products.columns-3 li.product {
     background-color:var(--button); 
     padding: 17px}
+
+/* Remove ''viser alle resultater'' text */
+.woocommerce-result-count {
+    display:none;}
+
