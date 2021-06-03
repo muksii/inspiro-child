@@ -44,12 +44,12 @@
     background-image: none!important;
 }
 
-/* Live function background */
+/* Live function background  */
 .wp-block-cover p {
     border-radius: 10px;
     background-color: black;
     opacity: 61%;
     padding: 10px;
     margin-bottom: 25px;
-    width: 250px; }
+    width: 250px; } 
 
