@@ -23,3 +23,9 @@
 .entry-content p {
     line-height: 1.5;
 }
+
+#glfButton4 {
+    background-color: var(--backgroundcolor)!important;}
+
+/* Remove nav-logo from homepage */
+.home .custom-logo-link {display: none;}
