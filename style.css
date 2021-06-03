@@ -105,3 +105,8 @@
 	
 .products li.product h3 {
 	color: var(--textcolor);}	
+
+
+/* Remove count number of products */
+.count {
+    display: none;}
