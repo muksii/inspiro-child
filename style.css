@@ -155,14 +155,5 @@ div.summary.entry-summary {
     }
 
 
-/*Homepage responsiveness*/
-
-@media (min-width: 600px) {
-    .mobile_view {
-        display:none; }
-    }
-
-    
-
 
 
