@@ -153,8 +153,44 @@ div.summary.entry-summary {
 .page-numbers {
     color: var(--textcolor);
     }
+
+/*Homepage responsiveness*/
+
+@media (min-width: 600px) {
+    .mobile_view {
+        display:none; }
+    }
+
+@media (max-width: 599px) {
+    .wp-block-column {
+        flex-basis: 100%!important;
+        text-align: center;
+        }
+    .entry-content .alignfull {
+        width:100%!important;
+        }
+        
+    .forside_h2 {
+        font-size:32px;
+        line-height:1.5;
+        margin-top:20px;
+        }
+
+    .forside_h3 {
+        font-size:32px;
+        line-height:1.5;
+        margin-top:20px;}
+        
+        
+    .desktop_view {
+        display:none!important;
+        }
+        
+    .mobile_view img {
+        width:125px;
+        }
+        
+    }
     
     
-
-
-
+    
