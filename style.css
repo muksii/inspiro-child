@@ -53,3 +53,8 @@
     margin-bottom: 25px;
     width: 250px; } 
 
+/* Reservation btn */
+.glf-button.reservation {
+    padding-left:43px!important;
+    padding-right: 43px!important; 
+}
