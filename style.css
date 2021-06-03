@@ -110,3 +110,8 @@
 /* Remove count number of products */
 .count {
     display: none;}
+
+
+/* Remove ''tilføj til kurv'' */
+.woocommerce a.button, .woocommerce button.button, .woocommerce input.button {
+    display: none;}
